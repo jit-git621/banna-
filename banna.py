@@ -79,5 +79,4 @@ class c1:
         self.b=b
     def __mul__(self,other):
         n1=self.a*other.a
-        n2=self.b*on
-        
+        n2=self.b*
