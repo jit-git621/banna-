@@ -73,10 +73,13 @@
 #             print("no")
 # obj=c1()
 # obj.banna(1,2)
-class c1:
-    def __init__(self,a,b):
-        self.a=a
-        self.b=b
-    def __mul__(self,other):
-        n1=self.a*other.a
-        n2=self.b*
+# class c1:
+#     def __init__(self,a,b):
+#         self.a=a
+#         self.b=b
+#     def __mul__(self,other):
+#         n1=self.a*other.a
+#         n2=self.b
+def banna(name):
+    print(name)
+banna("goutam")
