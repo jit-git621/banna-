@@ -80,6 +80,7 @@
 #     def __mul__(self,other):
 #         n1=self.a*other.a
 #         n2=self.b
+<<<<<<< HEAD
 
 
 #         '''git=this is a version control system it use to create check point to your code 
@@ -107,3 +108,8 @@
 
 
 
+=======
+def banna(name):
+    print(name)
+banna("goutam")
+>>>>>>> 45b0497d393ba27fcb4457c19efe9c62e5d071fa
